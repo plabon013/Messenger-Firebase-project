@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20915131838",
+    "project_id": "fir-seippbb6",
+    "storage_bucket": "fir-seippbb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20915131838:android:79496f0cad361cfc5b15ef",
+        "android_client_info": {
+          "package_name": "com.example.firebase_batch6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20915131838-dc50upvdiktsc6pmesm2ttbeot17g4hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mB-capzWyz2kcV5mM-5gY3xLX8o8-Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20915131838-dc50upvdiktsc6pmesm2ttbeot17g4hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
